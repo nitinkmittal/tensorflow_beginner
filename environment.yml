@@ -9,13 +9,13 @@ dependencies:
   - numpy
   - pandas
   - pip
-  - python=3.7.0
   - seaborn
   - scikit-learn
   - tensorflow-gpu=2.1.0
   - tensorboard=2.2.1              
-  - tensorboard-plugin-wit=1.6.0                    
-  - tensorflow-estimator=2.1.0              
+  - tensorboard-plugin-wit=1.6.0           
+  - tensorflow-estimator=2.1.0    
+  - python=3.7.0
   - typing
   - tqdm
   - pip:
